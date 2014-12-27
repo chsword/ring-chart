@@ -37,9 +37,7 @@ function XChart(id, size, pcent, colorX) {
                 }
             }
         }
-       
-        console.log(arrRGB.join(","));
-        return [arrRGB[0],arrRGB[1],arrRGB[2]].join(",") ;
+        return arrRGB.join(",") ;
     }
     function pToR(p) {
         var r = (p * 2) % 2 + 1.5;
