@@ -19,6 +19,6 @@ ring-chart
  
 Release
 =======================
-* v 0.1
-  > 基础功能提交
-  > release :https://github.com/chsword/ring-chart/releases/tag/v0.1
+* 2014.12.27 v0.1
+  基础功能提交
+  release :https://github.com/chsword/ring-chart/releases/tag/v0.1
