@@ -17,3 +17,8 @@ ring-chart
             XChart("panel5", 92, 1, "#FF5400")
         </script>
  
+Release
+=======================
+* v 0.1
+  > 基础功能提交
+  > release :https://github.com/chsword/ring-chart/releases/tag/v0.1
