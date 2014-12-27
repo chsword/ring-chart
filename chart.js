@@ -1,3 +1,8 @@
+/* a ring chart by chsword
+ * v 0.1 
+ * https://github.com/chsword/ring-chart 
+*/
+
 function XChart(id, size, pcent, colorX) {
     var color = TColor(colorX);
     var pi = Math.PI;
